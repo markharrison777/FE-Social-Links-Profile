@@ -20,7 +20,7 @@ The designs were created to the following widths:
 - White: hsl(0, 0%, 100%)
 - Grey: hsl(0, 0%, 20%)
 - Dark Grey: hsl(0, 0%, 12%)
-- Off Black: hsl(0, 0%, 8%)
+- Off Black: hsl(0, 0%, 8%);
 
 ## Typography
 
